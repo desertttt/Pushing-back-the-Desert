@@ -1,7 +1,10 @@
 # Pushing-back-the-Desert
+----
+Unity based game iOS output project. 
 
 Additional Large file: https://drive.google.com/file/d/1PsIZpikiKGowuWDzp7guLAjc6Q3Sb-R7/view?usp=sharing
-Please put back to Data/sharedassets5.assets.resS complie.
+
+Please put back to /Data/sharedassets5.assets.resS complie.
 
 ## Inspiration
 Because of the environment pollution situation, our team wants to demonstrate how planting trees can prevent desertification. 
